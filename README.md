@@ -85,17 +85,3 @@ To obtain a position of responsibility that utilizes my skills and experience an
 
 ---
 
-## 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
----
-
-## 🔗 Connect with Me
-
-Feel free to reach out via email or connect through LinkedIn/GitHub.
-
-
-Abhilash490/Abhilash490 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
